@@ -1,7 +1,7 @@
 /**
-* Template Name: UpConstruction
+* Template Name: Upgames
 * Updated: May 30 2023 with Bootstrap v5.3.0
-* Template URL: https://bootstrapmade.com/upconstruction-bootstrap-construction-website-template/
+* Template URL: https://bootstrapmade.com/upgames-bootstrap-games-website-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
@@ -671,34 +671,34 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Constructions Section
+# gamess Section
 --------------------------------------------------------------*/
-.constructions .card-item {
+.gamess .card-item {
   border: 1px solid rgba(82, 86, 94, 0.2);
   background: #fff;
   position: relative;
   border-radius: 0;
 }
 
-.constructions .card-item .card-bg {
+.gamess .card-item .card-bg {
   min-height: 300px;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
-.constructions .card-item .card-body {
+.gamess .card-item .card-body {
   padding: 30px;
 }
 
-.constructions .card-item h4 {
+.gamess .card-item h4 {
   font-weight: 700;
   font-size: 20px;
   margin-bottom: 15px;
   color: var(--color-secondary);
 }
 
-.constructions .card-item p {
+.gamess .card-item p {
   color: var(--color-secondary);
   margin: 0;
 }
