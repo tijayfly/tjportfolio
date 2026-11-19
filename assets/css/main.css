@@ -1490,6 +1490,8 @@ section {
   color: #fff;
   border-radius: 50px;
   transition: 0.3s;
+  align-self: stretch !important; /* full width of the info box (overrides .align-self-start) */
+  text-align: center;
 }
 
 .project-details .portfolio-info .btn-visit:hover {
